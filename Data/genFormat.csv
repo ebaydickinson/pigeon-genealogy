@@ -1,0 +1,37 @@
+child ,parent,offspringCode,parentSex,childSex,practice 
+BY,BB,G2I1,M,,FALSE
+BY,BO,G2I1,F,,FALSE
+pu,pi,G2I2,M,,FALSE
+pu,r,G2I2,F,,FALSE
+bpi,pi,G2I3,M,,FALSE
+bpi,r,G2I3,F,,FALSE
+b,pi,G2I4,M,,FALSE
+b,r,G2I4,F,,FALSE
+pir,pi,G2I5,M,,FALSE
+pir,r,G2I5,F,,FALSE
+br,pi ,G2I6,M,,FALSE
+br,r,G2I6,F,,FALSE
+db,g,G2I7,M,,FALSE
+db,ow,G2I7,F,,FALSE
+wb,g,G2I8,M,,FALSE
+wb,ow,G2I8,F,,FALSE
+ob,g,G2I9,M,,FALSE
+ob,ow,G2I9,F,,FALSE
+bw,g,G2I10,M,,FALSE
+bw,ow,G2I10,F,,FALSE
+gw,g,G2I11,M,,FALSE
+gw,ow,G2I11,F,,FALSE
+gb,y,G2I12,M,,FALSE
+gb,rg,G2I12,F,,FALSE
+yb,y,G2I13,M,,FALSE
+yb,rg,G2I13,F,,FALSE
+bpu,y,G2I14,M,,FALSE
+bpu,rg,G2I14,F,,FALSE
+dbbl,bl,G2I15,M,,FALSE
+dbbl,lbdb,G2I15,F,,FALSE
+lbbl,bl,G2I16,M,,FALSE
+lbbl,lbdb,G2I16,F,,FALSE
+owpi,pi,G217,M,,TRUE
+owpi,ow,G217,F,,TRUE
+dpu,pi,G218,M,,TRUE
+dpu,ow,G218,F,,TRUE
